@@ -22,15 +22,10 @@
     ]
   },
   "dependencies": {
-    "apollo-boost": "^0.4.4",
-    "axios": "^0.21.1",
     "cli-progress": "^1.8.0",
     "command-line-usage": "^4.0.1",
     "dotenv": "^8.1.0",
     "fs-extra": "^4.0.1",
-    "graphql": "^14.5.8",
-    "graphql-tag": "^2.10.1",
-    "isomorphic-unfetch": "^3.0.0",
     "minimist": "^1.2.5",
     "nodegit": "^0.24.1",
     "readline-sync": "^1.4.9",
@@ -50,6 +45,6 @@
     "prettier": "2.2.1"
   },
   "engines": {
-    "node": "16.19.0"
+    "node": "10.16.0"
   }
 }
